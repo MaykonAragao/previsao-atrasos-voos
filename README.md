@@ -1,8 +1,12 @@
 # ✈️ Análise e Previsão de Atrasos em Voos
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://previsao-voos.streamlit.app/)
+## 🚀 Acesse o Aplicativo Interativo
 
-O aplicativo web interativo para este projeto está no ar! **[Clique aqui para acessá-lo](https://previsao-voos.streamlit.app/)**
+O modelo foi publicado em uma aplicação web com Streamlit. Você pode acessá-la e testá-la através do link abaixo:
+
+### **[https://previsao-voos.streamlit.app/](https://previsao-voos.streamlit.app/)**
+
+---
 
 ---
 
