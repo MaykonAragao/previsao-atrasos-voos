@@ -4,7 +4,7 @@
 
 O modelo foi publicado em uma aplicação web com Streamlit. Você pode acessá-la e testá-la através do link abaixo:
 
-### **[previsao-voos.streamlit.app](https://previsao-voos.streamlit.app/)**
+https://previsao-atrasos-voos.streamlit.app/
 
 
 ---
